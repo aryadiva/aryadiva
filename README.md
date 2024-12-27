@@ -3,8 +3,7 @@
 
 - 🌱 I’m currently learning **Fullstack Web-development**
 
-- 👨‍💻 My Homepage and all of my projects are available to view at [(www.aryadivap.com)]((www.aryadivap.com))
-- Still in progress (⛹️)
+- 👨‍💻 My Homepage and all of my projects are available to view at [(www.aryadivap.com)]((www.aryadivap.com)) Still in progress (⛹️)
 
 - 💬 Ask me about **Soulsborne games & Hololive**
 
